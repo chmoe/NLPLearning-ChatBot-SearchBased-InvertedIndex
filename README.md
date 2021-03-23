@@ -30,3 +30,5 @@ The jupyter notebook file was created by that extension, output was on it.
 I create it just for my Graduation Project and thesis.
 
 If you want to use it, you can watch [this page on my blog](https://blog.cha.moe/article/67c56ed8.html) before, attention that page was wirtten in Chinese.
+
+You can also get in touch with me through the contact information in my blog or the ISSUE page of this warehouse. I am very happy if you can give me any suggestions or comments.
